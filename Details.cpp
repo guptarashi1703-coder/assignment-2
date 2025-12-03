@@ -3,4 +3,8 @@ COURSE : BTECH CSE
 SECTION : AD 
 ROLL NO : 54
 UNIVERSITY ROLL NO: 12515001289
+<<<<<<< HEAD
 */
+=======
+*/
+>>>>>>> dd3ece22eb0004d2896a7c24384bd10faaaa6f8c
